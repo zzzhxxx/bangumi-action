@@ -7,7 +7,7 @@ inputs:
   bgm-user-id:
     description: '班固米的用户ID，设置过用户名请使用用户名'
     required: true
-    default: 'xiaoyvyv'
+    default: 'zzzhxxx'
   bgm-img-path:
     description: '图片卡片上传保存路径'
     required: true
